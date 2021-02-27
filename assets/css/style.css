@@ -75,7 +75,7 @@ p {
 }
 /* Img styling ends */
 
-/* Content text styling starts */
+/* Central/Side Content styling starts */
 .content {
     width: 75%;
     display: inline-block;
@@ -126,7 +126,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Content text styling ends */
+/* Central/Side Content styling ends */
 
 /* Footer styling starts */
 
